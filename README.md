@@ -1,6 +1,7 @@
 # Researchuppgift - Git, Github och Terminalen
 När man använder Git, Github och Terminalen är det viktigt att vara specifik med kommandon, det vill säga hur de ska stavas, om det ska vara versaler eller gemener och hålla koll på placeringen av mellanslag och symboler. Detta eftersom minsta lilla fel, som till exempel en felplacerad symbol, kan resultera i ett felmeddelande som kan komma att påverka ett projekt. 
 
+
 ## Några terminalkommandon som jag har lärt mig i terminalen
 
 | Kommando | Förklaring |
