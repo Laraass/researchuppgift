@@ -53,3 +53,4 @@ Markdown används i textfiler för att t.ex skapa rubriker, underrubriker, länk
 ## Övrig information
 
 Dessa kommandon kan komma att se annorlunda ut beroende på vilket operativsystem användaren har.
+
